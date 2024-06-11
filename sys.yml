@@ -1,77 +1,77 @@
 #Scimitar
 - en: 'Agrabah'
   id: 1498 #05DA
-- en: 'Unlocks Agrabah'
+- en: 'Unlocks Agrabah. Another unlocks the second visit.'
   id: 1499 #05DB
 
 #Battlefields of War
 - en: 'Olypmus Coliseum'
   id: 1500 #05DC
-- en: 'Unlocks Olypmus Coliseum'
+- en: 'Unlocks Olypmus Coliseum. Another unlocks the second visit.'
   id: 1501 #05DD
 
 #Sword of the Ancestor
 - en: 'Land of Dragons'
   id: 1502 #05DE
-- en: 'Unlocks Land of Dragons'
+- en: 'Unlocks Land of Dragons. Another unlocks the second visit.'
   id: 1503 #05DF
 
 #Identity Disk
 - en: 'Space Paranoids'
   id: 1506 #05E2
-- en: 'Unlocks Space Paranoids'
+- en: 'Unlocks Space Paranoids. Another unlocks the second visit.'
   id: 1507 #05E3
 
 #Beast’s Claw
 - en: 'Beast´s Castle'
   id: 1510 #05E6
-- en: 'Unlocks Beast´s Castle'
+- en: 'Unlocks Beast´s Castle. Another unlocks the second visit.'
   id: 1511 #05E7
 
 #Bone Fist
 - en: 'Halloween Town'
   id: 1512 #05E8
-- en: 'Unlocks Halloween Town'
+- en: 'Unlocks Halloween Town. Another unlocks the second visit.'
   id: 1513 #05E9
 
 #Proud Fang
 - en: 'Pride Lands'
   id: 1514 #05EA
-- en: 'Unlocks Pride Lands'
+- en: 'Unlocks Pride Lands. Another unlocks the second visit.'
   id: 1515 #05EB
 
 #Skill and Crossbones
 - en: 'Port Royal'
   id: 1516 #05EC
-- en: 'Unlocks Port Royal'
+- en: 'Unlocks Port Royal. Another unlocks the second visit.'
   id: 1517 #05ED
 
 #Membership Card
 - en: 'Hollow Bastion'
   id: 15127 #3B17
-- en: 'Unlocks Hollow Bastion'
+- en: 'Unlocks Hollow Bastion. Another unlocks the second visit.'
   id: 15128 #3B18
 
 #Ice Cream
 - en: 'Twilight Town'
   id: 15139 #3B23
-- en: 'Unlocks Twilight Town'
+- en: 'Unlocks Twilight Town. Another unlocks the second visit. A third unlocks the third visit.'
   id: 15140 #3B24
 
 #Namine's Sketches
 - en: 'Simulated Twilight Town'
   id: 15125 #3B15
-- en: 'Unlocks Simulated Twilight Town'
+- en: 'Unlocks Simulated Twilight Town.'
   id: 15126 #3B16
 
 #Royal Summons #Dummy13 #item-091.imd
 - en: 'Disney Castle'
   id: 15638 #3D16
-- en: 'Unlocks Disney Castle'
+- en: 'Unlocks Disney Castle. Another unlocks Timeless River.'
   id: 15639 #3D17
 
 #Way to the Dawn
 - en: 'The World That Never Was'
   id: 1518 #05EE
-- en: 'Unlocks The World That Never Was'
+- en: 'Unlocks The World That Never Was. Another unlocks Xemnas.'
   id: 1519 #05EF
